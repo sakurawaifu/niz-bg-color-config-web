@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.efede3d1.css",
-    "main.js": "/static/js/main.80a97ddf.js",
-    "static/js/787.fad1ebcf.chunk.js": "/static/js/787.fad1ebcf.chunk.js",
-    "index.html": "/index.html",
-    "main.efede3d1.css.map": "/static/css/main.efede3d1.css.map",
-    "main.80a97ddf.js.map": "/static/js/main.80a97ddf.js.map",
-    "787.fad1ebcf.chunk.js.map": "/static/js/787.fad1ebcf.chunk.js.map"
+    "main.css": "/niz-bg-color-config-web/static/css/main.efede3d1.css",
+    "main.js": "/niz-bg-color-config-web/static/js/main.79154538.js",
+    "static/js/787.fad1ebcf.chunk.js": "/niz-bg-color-config-web/static/js/787.fad1ebcf.chunk.js",
+    "index.html": "/niz-bg-color-config-web/index.html",
+    "main.efede3d1.css.map": "/niz-bg-color-config-web/static/css/main.efede3d1.css.map",
+    "main.79154538.js.map": "/niz-bg-color-config-web/static/js/main.79154538.js.map",
+    "787.fad1ebcf.chunk.js.map": "/niz-bg-color-config-web/static/js/787.fad1ebcf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efede3d1.css",
-    "static/js/main.80a97ddf.js"
+    "static/js/main.79154538.js"
   ]
 }
